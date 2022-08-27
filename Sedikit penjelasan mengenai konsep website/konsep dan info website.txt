@@ -1,0 +1,10 @@
+-Tampilan utama yaitu file "page1.php"
+-Untuk pengguna biasa hanya bisa mengakses page1, page2, page3, dan page4 tanpa memerlukan akses masuk
+-pada page1 dan page2 berisi tentang informasi seputaran kpop
+-pada page3, pengguna biasa dapat meninggalkan pesan, komentar, pendapat, dll di tabel komentar
+dan komentar yang sudah di kirim dapat kita lihat pada bagian bawah kolom komentar
+-pada page4, berisi tampilan news/berita yang di update oleh admin dan dapat di baca oleh pengguna
+-Button login hanya bisa diakses oleh admin dengan memasukkan username dan password,
+jika berhasil akan muncul tampilan admin yang berisi penambahan berita/news yang akan ditampilkan
+di page4 (news), di page admin juga selain menambahkan berita untuk di output, admin juga
+bisa mengedit dan menghapus berita yang sudah di posting sebelumnya.
