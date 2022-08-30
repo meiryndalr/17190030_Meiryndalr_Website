@@ -97,12 +97,12 @@
         <!---akhir dari menu-->
         <!--bagian sidebar website-->
         <aside class="sidebar">
-            <div class="trejo">
+             <div class="theboyz">
                 <div>
-                    <img src="https://sabilia.id/wp-content/uploads/2021/07/kapan-anniversary-treasure.jpg" alt="pict" width="150" height="90">
+                    <img src="https://pbs.twimg.com/media/FCjajr7UUAIr-PH?format=jpg&name=large" alt="pict" width="150" height="90">
                 </div>
-                    <h2>Treasure</h2>
-                    <p>Treasure (트레저) adalah grup vokal pria Korea Selatan yang dibentuk oleh YG Entertainment yang terdiri dari 12 anggota. Choi Hyun-suk dan Park Jihoon sebagai leader grup yang secara resmi memulai debut mereka pada 7 Agustus 2020.</p>
+                    <h2>The Boyz</h2>
+                    <p>The Boyz (더보이즈) adalah grup vokal pria Korea Selatan yang dibentuk oleh Cre.ker (Creative Kernel) Entertainment yang saat ini namanya menjadi IST Entertainment. Grup ini terdiri dari 11 anggota: Sangyeon, Jacob, Younghoo Hyunjae, Juyeon, Kevin, New, Q, Ju Haknyeon, Sunwoo, dan Eric|The Boyz debut pada 6 Desember 2017.</p>
             </div>
 
             <div class="bts">
